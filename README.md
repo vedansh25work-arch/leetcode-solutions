@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0258-add-digits](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0258-add-digits) |
 | [2652-sum-multiples](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
