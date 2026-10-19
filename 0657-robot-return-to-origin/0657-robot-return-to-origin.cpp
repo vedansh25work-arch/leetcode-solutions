@@ -1,10 +1,16 @@
+
 class Solution {
 public:
     bool judgeCircle(string moves) {
-        map<char,int> mp;
-        for( int i =0;i<moves.size();i++){
-            mp[moves[i]]++;
+        int horizontal = 0, vertical = 0;
+
+        for (char c : moves) {
+            if (c == 'R') horizontal++;
+            else if (c == 'L') horizontal--;
+            else if (c == 'U') vertical++;
+            else if (c == 'D') vertical--;
         }
-        return (mp['R']==mp['L'] && mp['U']==mp['D']);
+
+        return horizontal == 0 && vertical == 0;
     }
 };
