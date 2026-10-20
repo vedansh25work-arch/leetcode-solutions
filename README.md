@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0258-add-digits) |
 | [1486-xor-operation-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2652-sum-multiples) |
@@ -75,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
