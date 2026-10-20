@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
