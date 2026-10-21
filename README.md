@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -92,4 +94,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 <!---LeetCode Topics End-->
