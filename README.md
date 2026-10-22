@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1672-richest-customer-wealth](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
