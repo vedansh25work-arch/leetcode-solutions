@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0258-add-digits) |
 | [0492-construct-the-rectangle](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
+| [1323-maximum-69-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [1323-maximum-69-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Interactive
 |  |
