@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0657-robot-return-to-origin](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0771-jewels-and-stones](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0771-jewels-and-stones](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
