@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
