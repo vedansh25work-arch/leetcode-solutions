@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0495-teemo-attacking](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [0605-can-place-flowers](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1323-maximum-69-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
