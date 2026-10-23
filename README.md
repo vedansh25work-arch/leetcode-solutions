@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0896-monotonic-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1046-last-stone-weight](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+| [1046-last-stone-weight](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Bit Manipulation
 |  |
