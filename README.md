@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0258-add-digits) |
 | [0495-teemo-attacking](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -108,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1486-xor-operation-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2032-two-out-of-three](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2032-two-out-of-three) |
 ## Binary Search
