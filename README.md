@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0495-teemo-attacking](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0896-monotonic-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0896-monotonic-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Bit Manipulation
 |  |
@@ -130,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -194,4 +199,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
