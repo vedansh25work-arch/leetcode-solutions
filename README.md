@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1046-last-stone-weight) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Bit Manipulation
 |  |
