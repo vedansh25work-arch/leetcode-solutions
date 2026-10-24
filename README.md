@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [1920-build-array-from-permutation](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1046-last-stone-weight](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Bit Manipulation
 |  |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2032-two-out-of-three](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2032-two-out-of-three) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [1323-maximum-69-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1323-maximum-69-number) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Interactive
 |  |
