@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2951-find-the-peaks](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
