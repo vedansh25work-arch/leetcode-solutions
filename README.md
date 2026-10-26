@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Matrix
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Number Theory
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -165,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2032-two-out-of-three](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0767-reorganize-string) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
 |  |
 | ------- |
@@ -227,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2951-find-the-peaks) |
+## Ordered Set
+|  |
+| ------- |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 <!---LeetCode Topics End-->
