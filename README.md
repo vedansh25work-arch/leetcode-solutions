@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0495-teemo-attacking](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0767-reorganize-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -237,4 +239,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
