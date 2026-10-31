@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1796-second-largest-digit-in-a-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1796-second-largest-digit-in-a-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1796-second-largest-digit-in-a-string) |
 | [2032-two-out-of-three](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2032-two-out-of-three) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
