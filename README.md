@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0492-construct-the-rectangle](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0492-construct-the-rectangle) |
 | [1323-maximum-69-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0658-find-k-closest-elements) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
