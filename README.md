@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2951-find-the-peaks](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2951-find-the-peaks) |
 | [2974-minimum-number-game](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
