@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0896-monotonic-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0905-sort-array-by-parity) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1046-last-stone-weight) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -263,10 +265,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [1019-next-greater-node-in-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
