@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2652-sum-multiples](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
