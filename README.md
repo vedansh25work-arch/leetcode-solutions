@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Two Pointers
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1019-next-greater-node-in-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/1019-next-greater-node-in-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Monotonic Stack
