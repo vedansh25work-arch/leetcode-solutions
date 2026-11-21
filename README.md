@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0500-keyboard-row) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0767-reorganize-string](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0767-reorganize-string) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sliding Window
