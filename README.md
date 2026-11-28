@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0198-house-robber](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0495-teemo-attacking](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0495-teemo-attacking) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/vedansh25work-arch/leetcode-solutions/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
